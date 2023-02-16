@@ -52,15 +52,19 @@
 
 1. Создайте новую таблицу с именем customers_nyc, которая извлечет все строки из таблицы клиентов, в которой клиент проживает в городе Нью-Йорк в штате Нью-Йорк.
 
-![image](https://user-images.githubusercontent.com/121240962/219291408-b07d35d0-cdf1-4954-9c1f-14affa471eef.png)
+![image](https://user-images.githubusercontent.com/121240962/219335437-a10a3158-9229-4642-8681-7eb696152b40.png)
 
 2. Удалите из новой таблицы всех клиентов с почтовым индексом 10014. В соответствии с местным законодательством они не будут иметь права на маркетинг.
 
-![image](https://user-images.githubusercontent.com/121240962/219292137-3759b997-4e3d-4490-9ef0-94de7950e43d.png)
+![image](https://user-images.githubusercontent.com/121240962/219333520-7b22fa1d-520b-408a-a796-4bad786e97fe.png)
 
 3. Добавьте новый текстовый столбец с именем событие.
 
+![image](https://user-images.githubusercontent.com/121240962/219335721-9135f115-0759-42c5-aefb-750c65335359.png)
 
 4. Установите значение события на вечеринку благодарности.
 
+![image](https://user-images.githubusercontent.com/121240962/219337180-7c068645-41fb-4e70-8ac8-e6c026c44021.png)
+
+![image](https://user-images.githubusercontent.com/121240962/219337357-fd15a507-3b55-4625-a332-bfc716b8ea94.png)
 
