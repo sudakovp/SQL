@@ -1,5 +1,5 @@
 # ДЗ
-#Practise 01
+Practise 01
 =
 1)Установить Postgres 14.7.
 
