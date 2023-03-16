@@ -46,6 +46,18 @@ Q8
 
 ![image](https://user-images.githubusercontent.com/121240962/225663981-1b41a817-4709-4729-8d56-d35a9b5e15cb.png)
 
-09
+Q9
 
 ![image](https://user-images.githubusercontent.com/121240962/225664921-ff26c9c3-0f5f-4bc0-81de-f90cef186d72.png)
+
+Q10
+
+![image](https://user-images.githubusercontent.com/121240962/225666824-d75f1846-9180-447c-993b-1f6bea227432.png)
+
+Q11
+
+![image](https://user-images.githubusercontent.com/121240962/225669151-99f0f688-ec4b-4c07-8ab7-06314f0548fd.png)
+
+Q12
+
+![image](https://user-images.githubusercontent.com/121240962/225676582-fea899a0-7c6d-4816-86d3-c799265f5480.png)
